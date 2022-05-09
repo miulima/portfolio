@@ -4,7 +4,7 @@
 
 # Deploy on Netlify
 
-Use `export` as build command abcteste
+Use `export` as build command
 
 ```js
 yarn export
