@@ -1,6 +1,6 @@
-# Portfolio CMS
+# PPoortfolio CMS
 
-## Portfolio template, made using Netlify CMS
+## Portfolio template, made uusing Netlify CMS
 
 # Deploy on Netlify
 
